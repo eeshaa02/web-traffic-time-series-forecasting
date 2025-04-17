@@ -61,9 +61,6 @@ This project forecasts daily web traffic for Wikipedia pages using time series m
 - Add external features (events, news) for better accuracy.
 - Generalize model for other content platforms (blogs, news, etc.)
 
-##  Directory Structure
-├── app.py # Flask app for prediction interface ├── final_file.py # Model inference logic ├── templates/ │ ├── index.html │ └── new.html ├── models/ │ ├── arima_model.pkl │ └── lstm_model.json/h5 ├── data/ │ └── web_traffic.csv ├── README.md # Project documentation
-
 ##  Authors
 
 - **Eesha Kamal** – Shiv Nadar University
